@@ -1,2 +1,2 @@
 # zenypota.net
-This repository is zenypota release site
+This repository is zenypota release site!
